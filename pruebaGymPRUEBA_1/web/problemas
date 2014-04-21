@@ -1,0 +1,11 @@
+problemas al registrar usuario 
+------------------------------
+exception
+
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalStateException: Neither BindingResult nor plain target object for bean name 'accesoUsuario' available as request attribute
+root cause
+
+java.lang.IllegalStateException: Neither BindingResult nor plain target object for bean name 'accesoUsuario' available as request attribute
+
+
+NO añade ejercicios.... problema con el grupo
